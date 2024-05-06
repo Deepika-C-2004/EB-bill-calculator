@@ -1,0 +1,25 @@
+#wrapper{
+    margin: 50px auto;
+    border: 2px solid black;
+    display: block;
+    height: 400px;
+    width: 400px;
+    background-color: burlywood;
+}
+#result{
+    margin: 30px;
+
+}
+#myid{
+    display: block;
+    margin: 30px;
+    width: 300px;
+    height: 30px;
+    
+}
+button{
+    margin: 30px;
+}
+html{
+    background-color: wheat;
+}
